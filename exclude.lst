@@ -1,0 +1,10 @@
+NEW_STRU
+*.cdx
+*.lck
+*.bak
+*.tmp
+*.msi
+*.exe
+*.csv
+*.xls
+*.msg
